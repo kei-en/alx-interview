@@ -4,4 +4,5 @@ This repository contains work on practice technical interview questions for ALX 
 
 - [0x00. Pascal's Triangle](./0x00-pascal_triangle/)
 - [0x02. Lockboxes](./0x01-lockboxes/)
-- [0x03. Minimum Operations](./0x02-minimum_operations/)
+- [0x02. Minimum Operations](./0x02-minimum_operations/)
+- [0x03. Log Parsing](./0x03-log_parsing/)
