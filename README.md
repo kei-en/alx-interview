@@ -9,3 +9,5 @@ This repository contains work on practice technical interview questions for ALX 
 - [0x04. UTF8 Validation](./0x04-utf8_validation/)
 - [0x05. NQuens](./0x05-nqueens/)
 - [0x06. Star Wars API](./0x06-starwars_api/)
+- [0x07. Rotate 2D Matrix](./0x07-rotate_2d_matrix/)
+- [0x08. Making Change](./0x08-making_change/)
